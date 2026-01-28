@@ -13,7 +13,7 @@
 <script setup>
 import { ref } from 'vue';
 
-const content = ref('這是一個 Git 協作練習專案。');
+const content = ref('xindi 測試測試');
 </script>
 
 <style scoped>
