@@ -13,7 +13,7 @@
 <script setup>
 import { ref } from 'vue';
 
-const content = ref('TRY it!!!。');
+const content = ref('NO!!!');
 </script>
 
 <style scoped>
